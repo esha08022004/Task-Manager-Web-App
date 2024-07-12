@@ -1,5 +1,3 @@
----
-
 # Task Manager App
 
 This project is a simple Task Manager web application. Manage your tasks efficiently with this Task Manager web application. Add, delete, and mark tasks as complete seamlessly. This app utilizes local storage to persist tasks across sessions, ensuring your tasks are saved even when you close the browser.
